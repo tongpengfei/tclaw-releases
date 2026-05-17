@@ -23,25 +23,25 @@ All your conversations and files stay on your own computer — no cloud account,
 
 ### Demo Video
 
-https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw_showcase_01.mp4
+https://github.com/tongpengfei/tclaw-releases/raw/main/docs/showcase/tclaw_showcase_01.mp4
 
 ### Screenshots
 
 | CLI Launch | Xiaohongshu Content Generation |
 |---|---|
-| ![CLI](https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw01_cli01.png) | ![Xiaohongshu](https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw02_xhs01.png) |
+| ![CLI](docs/screenshots/tclaw01_cli01.png) | ![Xiaohongshu](docs/screenshots/tclaw02_xhs01.png) |
 
 | Stock Analysis | File Browser |
 |---|---|
-| ![Stock](https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw03_stock01.png) | ![File Browser](https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw04_file_browser01.png) |
+| ![Stock](docs/screenshots/tclaw03_stock01.png) | ![File Browser](docs/screenshots/tclaw04_file_browser01.png) |
 
 | Debug Logs | Mini Apps |
 |---|---|
-| ![Logs](https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw05_log01.png) | ![Mini Apps](https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw06_apps01.png) |
+| ![Logs](docs/screenshots/tclaw05_log01.png) | ![Mini Apps](docs/screenshots/tclaw06_apps01.png) |
 
 | Code Dev 1 | Code Dev 2 |
 |---|---|
-| ![Code1](https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw07_code01.png) | ![Code2](https://github.com/tongpengfei/tclaw-releases/releases/download/v0.0.1/tclaw08_code02.png) |
+| ![Code1](docs/screenshots/tclaw07_code01.png) | ![Code2](docs/screenshots/tclaw08_code02.png) |
 
 ---
 
