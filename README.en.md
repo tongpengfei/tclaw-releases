@@ -71,7 +71,7 @@ Send messages to your AI directly from Feishu or WeChat — ask questions, look 
 
 - **Fully local**: Conversations stay on your machine, never passing through any third-party server
 - **Multi-model support**: Compatible with OpenAI and Anthropic protocols — any service implementing either protocol can be connected
-- **Lightweight**: Single executable, unzip and run, no Python / Node / other dependencies required
+- **Lightweight**: Single executable, unzip and run, no Python / Node / other dependencies required. CLI ~8 MB, GUI ~10 MB
 - **Cross-platform**: macOS, Windows, and Linux versions available
 
 ---
