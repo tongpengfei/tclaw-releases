@@ -29,19 +29,19 @@ https://github.com/tongpengfei/tclaw-releases/raw/main/docs/showcase/tclaw_showc
 
 | CLI Launch | Xiaohongshu Content Generation |
 |---|---|
-| ![CLI](docs/screenshots/tclaw01_cli01.png) | ![Xiaohongshu](docs/screenshots/tclaw02_xhs01.png) |
+| ![CLI](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw01_cli01.png) | ![Xiaohongshu](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw02_xhs01.png) |
 
 | Stock Analysis | File Browser |
 |---|---|
-| ![Stock](docs/screenshots/tclaw03_stock01.png) | ![File Browser](docs/screenshots/tclaw04_file_browser01.png) |
+| ![Stock](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw03_stock01.png) | ![File Browser](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw04_file_browser01.png) |
 
 | Debug Logs | Mini Apps |
 |---|---|
-| ![Logs](docs/screenshots/tclaw05_log01.png) | ![Mini Apps](docs/screenshots/tclaw06_apps01.png) |
+| ![Logs](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw05_log01.png) | ![Mini Apps](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw06_apps01.png) |
 
 | Code Dev 1 | Code Dev 2 |
 |---|---|
-| ![Code1](docs/screenshots/tclaw07_code01.png) | ![Code2](docs/screenshots/tclaw08_code02.png) |
+| ![Code1](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw07_code01.png) | ![Code2](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw08_code02.png) |
 
 ---
 
@@ -78,10 +78,8 @@ Send messages to your AI directly from Feishu or WeChat — ask questions, look 
 
 ## Installation
 
-Go to the **[Releases](../../releases/latest)** page to download the latest version.
-
 ### macOS (GUI recommended)
-1. Download `tclaw-<version>-darwin-arm64-gui.dmg` (Apple Silicon) or `tclaw-<version>-darwin-amd64-gui.dmg` (Intel)
+1. Download `tclaw-darwin-arm64-gui.dmg` (Apple Silicon) or `tclaw-darwin-amd64-gui.dmg` (Intel)
 2. Open the DMG and drag `tclaw.app` into your **Applications** folder
 3. Double-click to launch
 
@@ -92,7 +90,7 @@ Go to the **[Releases](../../releases/latest)** page to download the latest vers
 > Then try opening again. This is a standard macOS restriction for apps without Apple notarization.
 
 ### Windows (GUI)
-1. Download `tclaw-<version>-windows-amd64-gui.zip` and unzip
+1. Download `tclaw-windows-amd64-gui.zip` and unzip
 2. Double-click `tclaw.exe`
 3. If a security warning appears, click **More info → Run anyway**
 

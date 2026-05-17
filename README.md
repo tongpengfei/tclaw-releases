@@ -29,19 +29,19 @@ https://github.com/tongpengfei/tclaw-releases/raw/main/docs/showcase/tclaw_showc
 
 | CLI 启动 | 小红书内容生成 |
 |---|---|
-| ![CLI](docs/screenshots/tclaw01_cli01.png) | ![小红书](docs/screenshots/tclaw02_xhs01.png) |
+| ![CLI](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw01_cli01.png) | ![小红书](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw02_xhs01.png) |
 
 | 股票分析 | 文件浏览器 |
 |---|---|
-| ![股票](docs/screenshots/tclaw03_stock01.png) | ![文件浏览器](docs/screenshots/tclaw04_file_browser01.png) |
+| ![股票](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw03_stock01.png) | ![文件浏览器](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw04_file_browser01.png) |
 
 | 调试日志 | 小程序 |
 |---|---|
-| ![日志](docs/screenshots/tclaw05_log01.png) | ![小程序](docs/screenshots/tclaw06_apps01.png) |
+| ![日志](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw05_log01.png) | ![小程序](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw06_apps01.png) |
 
 | 代码开发 1 | 代码开发 2 |
 |---|---|
-| ![代码1](docs/screenshots/tclaw07_code01.png) | ![代码2](docs/screenshots/tclaw08_code02.png) |
+| ![代码1](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw07_code01.png) | ![代码2](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw08_code02.png) |
 
 ---
 
@@ -81,10 +81,8 @@ tclaw 支持创建"小程序"——你自己定制的 AI 工作流。
 
 ## 下载安装
 
-前往 **[Releases](../../releases/latest)** 页面下载最新版本。
-
 ### macOS（推荐 GUI 版）
-1. 下载 `tclaw-<版本>-darwin-arm64-gui.dmg`（M 系列芯片）或 `tclaw-<版本>-darwin-amd64-gui.dmg`（Intel）
+1. 下载 `tclaw-darwin-arm64-gui.dmg`（M 系列芯片）或 `tclaw-darwin-amd64-gui.dmg`（Intel）
 2. 打开 DMG，将 `tclaw.app` 拖入 **Applications（应用程序）** 文件夹
 3. 双击打开
 
@@ -95,7 +93,7 @@ tclaw 支持创建"小程序"——你自己定制的 AI 工作流。
 > 然后重新打开即可。这是 macOS 对未经苹果公证的应用的限制，不影响正常使用。
 
 ### Windows（GUI 版）
-1. 下载 `tclaw-<版本>-windows-amd64-gui.zip`，解压
+1. 下载 `tclaw-windows-amd64-gui.zip`，解压
 2. 双击运行 `tclaw.exe`
 3. 如弹出安全警告，点击**更多信息 → 仍要运行**
 
@@ -132,3 +130,4 @@ tclaw 支持创建"小程序"——你自己定制的 AI 工作流。
 ## 反馈与支持
 
 遇到问题或有功能建议，请在 [Issues](../../issues) 页面提交，我会持续改进。
+
