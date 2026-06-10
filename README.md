@@ -63,7 +63,7 @@ tclaw 支持创建"小程序"——你自己定制的 AI 工作流。
 描述你想要的页面效果，AI 直接生成可预览的 HTML 原型，方便沟通需求或快速验证想法。
 
 ### 🎮 开发小游戏
-让 AI 帮你开发可以直接玩的网页小游戏。以下是 tbrain + tclaw 全程 AI 开发的挂机 RPG：
+让 AI 帮你开发可以直接玩的网页小游戏。以下是 [tbrain](https://github.com/tongpengfei/tbrain) + tclaw 全程 AI 开发的挂机 RPG：
 
 ![tbrain+tclaw 开发的游戏](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/showcase/tbrain_game_01.gif)
 
