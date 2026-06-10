@@ -63,7 +63,11 @@ tclaw 支持创建"小程序"——你自己定制的 AI 工作流。
 描述你想要的页面效果，AI 直接生成可预览的 HTML 原型，方便沟通需求或快速验证想法。
 
 ### 🎮 开发小游戏
-让 AI 帮你开发可以直接玩的网页小游戏。查看 AI 开发的游戏合集：[dafei.me/games](https://www.dafei.me/games/)
+让 AI 帮你开发可以直接玩的网页小游戏。以下是 tbrain + tclaw 全程 AI 开发的挂机 RPG：
+
+![tbrain+tclaw 开发的游戏](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/showcase/tbrain_game_01.gif)
+
+查看更多 AI 开发的游戏合集：[dafei.me/games](https://www.dafei.me/games/)
 
 ### 📁 管理本地文件
 内置文件浏览器，可以直接浏览、预览、整理本地文件，结合 AI 能力批量处理文档。
