@@ -35,9 +35,9 @@ https://github.com/tongpengfei/tclaw-releases/raw/main/docs/showcase/tclaw_showc
 |---|---|
 | ![Stock](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw03_stock01.png) | ![File Browser](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw04_file_browser01.png) |
 
-| Debug Logs | Mini Apps |
+| Debug Logs | Apps |
 |---|---|
-| ![Logs](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw05_log01.png) | ![Mini Apps](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw06_apps01.png) |
+| ![Logs](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw05_log01.png) | ![Apps](https://github.com/tongpengfei/tclaw-releases/raw/main/docs/screenshots/tclaw06_apps01.png) |
 
 | Code Dev 1 | Code Dev 2 |
 |---|---|
@@ -53,7 +53,7 @@ Paste an article, report, or conversation and let AI extract key points, restruc
 ### 📊 Analyze Documents & Data
 Upload CSV, Excel, PDF, or text files. Ask questions, get analysis reports, or let AI surface the key data you need.
 
-### 🛠️ Build Your Own Productivity Tools (Mini Apps)
+### 🛠️ Build Your Own Productivity Tools (Apps)
 Create custom AI workflows — just describe what you want: auto-format meeting notes, batch rename files, generate weekly reports, and more.
 
 ### 🌐 Generate Web Prototypes
@@ -113,8 +113,8 @@ Click「+」in the top left to create a new session and start asking questions.
 ### Step 3: Upload files
 Click the 📎 button next to the input box to upload documents, images, or code files.
 
-### Step 4: Use Mini Apps
-Click the Mini Apps icon on the left sidebar to explore built-in tools or create your own workflow.
+### Step 4: Use Apps
+Click the Apps icon on the left sidebar to explore built-in tools or create your own workflow.
 
 ---
 
