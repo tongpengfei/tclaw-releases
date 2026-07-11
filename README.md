@@ -1,6 +1,6 @@
 # tclaw — 本地私人 AI 助手 · [English](README.en.md)
 
-> 我的地盘我作主，我想怎样就怎样。Yes I Can, Yes I do.
+> 用 AI，做自己的应用
 
 tclaw 是一款**开箱即用**的本地私人 AI 助手。下载解压即可运行，只需配置一下大模型的 API Key，几分钟内就能上手——无需安装额外环境。
 
